@@ -23,7 +23,7 @@ https://marcdahmen.de
 	<@~ set { :noAnimations: ' no-animations' } @>
 <@~ end @>
 
-<@~ set { :dist: @{ theme | replace ('/automad\\/automad-/', '') } } ~@>
+<@~ set { :dist: @{ theme | replace ('/automad\\//', '') } } ~@>
 
 <# 
 
