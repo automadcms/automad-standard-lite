@@ -92,7 +92,7 @@ https://marcdahmen.de
 	<std-sidebar-backdrop class="std-sidebar-backdrop"></std-sidebar-backdrop>
 
 	<aside class="std-layout__sidebar">
-		<nav id="std-sidebar" class="std-sidebar">
+		<nav id="std-sidebar" class="std-sidebar std-sticky">
 			<# Navbar items #>	
 			<@ if not @{ checkboxHideNavbarLinksInMobileSidebar} @>
 				<@ ../lib/navbarActionsPagelist.php @>	
