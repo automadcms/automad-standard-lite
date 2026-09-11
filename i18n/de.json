@@ -48,8 +48,7 @@
     "checkboxHidePreviousAndNextPageNavigation": "Vorherige/Nächste-Navigation ausblenden",
     "checkboxDisableAnimations": "Animationen deaktivieren",
     "selectShowPageInNavbar": "Seite in der Navigationsleiste anzeigen",
-    "selectShowPageInFooter": "Seite im Footer-Bereich anzeigen",
-    "labelBackToTop": "Beschriftung für \"Zurück zum Seitenanfang\""
+    "selectShowPageInFooter": "Seite im Footer-Bereich anzeigen"
   },
   "options": {
     "__dateFormat__": {
